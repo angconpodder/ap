@@ -1,0 +1,16 @@
+OutreachOutput_100000.zip
+File Size (bytes): 25920654
+File Signature: 74bf2893bd4f0fe8f1c0d9058bb3979b
+===============
+OutreachOutput_30000.zip
+File Size (bytes): 7777384
+File Signature: 73015aceb2bb251f220aa6f92050aeef
+===============
+OutreachOutput_50000.zip
+File Size (bytes): 12961937
+File Signature: decba80f1809a8516eb7e94e5c56ebfb
+===============
+OutreachOutput_75000.zip
+File Size (bytes): 19438485
+File Signature: d9575962de1db979e47a9ede22c65146
+===============
